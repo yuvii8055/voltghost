@@ -1,0 +1,17 @@
+{
+  "short_name": "VoltGhost",
+  "name": "VoltGhost — Hunt Your Energy Ghosts",
+  "description": "Intelligent Industrial Energy Monitoring, 3D Digital Twin, and Generative AI Platform",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#070B14",
+  "theme_color": "#070B14",
+  "display": "standalone",
+  "orientation": "any"
+}
